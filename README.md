@@ -188,7 +188,7 @@ Gwelodd gath heb goler na chynffon.
 ['gweld', 'cath', 'heb', 'coler', 'na', 'cynffon', '.']
 ```
 
-It uses the part of speech tags so that it can differentiate between for isntance _ceir_ as a form _cael_ and _ceir_ which is the plural form of _car_ (English: "cars").
+It uses the part of speech tags so that it can differentiate between for instance _ceir_ as a form of _cael_ and _ceir_ which is the plural form of _car_ (English: "cars").
 
 ```
 Ceir rhai garejys yn gwerthu ceir rhad
@@ -246,7 +246,7 @@ get_most_similar("heddiw", 10)
 ```
 
 ## Installing the model
-Follow the instructions at https://spacy.io/usage er mwyn gosod llyfrgell spaCy.
+Follow the instructions at https://spacy.io/usage in order to install the spaCy library.
 
 Download the latest version of the model from https://github.com/techiaith/spacy_cy_tag_lem_ner_lg/releases/latest.
 
@@ -254,7 +254,7 @@ Install the downloaded package using:
 
 `pip install -m enw-ffeil-y-pecyn`
 
-withn your Python environment.
+within your Python environment.
 
 You can confirm that the installation was succesful using:
 
@@ -314,4 +314,4 @@ this will display the parse in your browser at `localhost:5000`
 ![image](https://user-images.githubusercontent.com/10194573/227287969-6fb2c9dd-b2aa-421f-ab62-ce87078caa10.png)
 
 # Licence
-The model is licensed under the MIT licence.  Contains public sector information licensed under the Open Government Licence v3.0.
+The model is licensed under the MIT licence.  It contains public sector information licensed under the Open Government Licence v3.0.
