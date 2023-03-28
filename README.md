@@ -252,7 +252,7 @@ Download the latest version of the model from https://github.com/techiaith/spacy
 
 Install the downloaded package using:
 
-`pip install -m enw-ffeil-y-pecyn`
+`pip install -m package_filename`
 
 within your Python environment.
 
